@@ -1,0 +1,19 @@
+   {
+    "TOKEN": "OTg2NTQ4NDA0MjA3MzY2MTg0.GMyQ5c.i3aDxUPJ9ZMyXlpJEoASkA9vGlzlwMaEVw72Zk",
+    "ICONS": {
+    "greentick": "✅",
+        "redtick": "❌",
+        "arrow": "▶",
+        "loading": "🔁",
+        "shrug": "🤷",
+        "fulleft": "⏪",
+        "left": "◀",
+        "stop": "⏹️",
+        "right": "▶",
+        "fullright": "⏩",
+        "info": "ℹ️",
+        "on": "☑️",
+        "off": "❎",
+        "headphones": "\uD83C\uDFA7"
+    }
+}
